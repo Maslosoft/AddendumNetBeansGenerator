@@ -1,0 +1,24 @@
+{
+    "name": "Piotr/addendum-net-beans-generator",
+    "description": "Netbeans autocompletition file for annotations generator",
+    "require": {
+        "maslosoft/miniview": "*",
+        "maslosoft/addendum": "*"
+    },
+    "require-dev": {
+        "maslosoft/hedron": "*"
+    },
+	"autoload": {
+		"psr-4": {
+			"Maslosoft\\AddendumNetBeansGenerator\\": "src"
+		}
+	},
+    "license": "New BSD",
+    "authors": [
+        {
+            "name": "Peter Maselkowski",
+            "email": "pmaselkowski@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
