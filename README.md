@@ -1,0 +1,2 @@
+# AddendumNetBeansGenerator
+Netbeans autocompletition for annotations generator
