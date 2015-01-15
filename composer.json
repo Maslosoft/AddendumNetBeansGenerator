@@ -1,5 +1,5 @@
 {
-    "name": "Piotr/addendum-net-beans-generator",
+    "name": "maslosoft/addendum-net-beans-generator",
     "description": "Netbeans autocompletition file for annotations generator",
     "require": {
         "maslosoft/miniview": "*",
